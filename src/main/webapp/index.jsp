@@ -32,7 +32,7 @@
     <header>
         <table style="width: 720px;">
             <tr>
-                <td><img src="images/easybuggy.png" class="bounceInRight animated" width="324px" height="116px" /></td>
+                <td><img src="images/car-g76d7e8f7d_640.png" class="bounceInRight animated" width="324px" height="116px" /></td>
                 <td><fmt:message key="description.all" /></td>
             </tr>
         </table>
